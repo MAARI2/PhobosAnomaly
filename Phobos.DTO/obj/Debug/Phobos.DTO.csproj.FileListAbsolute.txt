@@ -1,0 +1,6 @@
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DTO\bin\Debug\Phobos.DTO.dll
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DTO\bin\Debug\Phobos.DTO.pdb
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DTO\obj\Debug\Phobos.DTO.csproj.AssemblyReference.cache
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DTO\obj\Debug\Phobos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DTO\obj\Debug\Phobos.DTO.dll
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DTO\obj\Debug\Phobos.DTO.pdb

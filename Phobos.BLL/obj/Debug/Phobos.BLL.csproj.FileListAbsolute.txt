@@ -1,0 +1,2 @@
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.BLL\obj\Debug\Phobos.BLL.csproj.AssemblyReference.cache
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.BLL\obj\Debug\Phobos.BLL.csproj.CoreCompileInputs.cache

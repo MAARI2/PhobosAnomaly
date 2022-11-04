@@ -1,0 +1,2 @@
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DAL\obj\Debug\Phobos.DAL.csproj.AssemblyReference.cache
+C:\Users\marilia.aafreitas\Desktop\PhogosAnomaly\Phobos.DAL\obj\Debug\Phobos.DAL.csproj.CoreCompileInputs.cache
